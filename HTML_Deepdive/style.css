@@ -1,0 +1,15 @@
+div {
+	color:red;
+}
+
+h1 {
+	text-align:center;
+	color: white;
+	border: 5px solid white;
+	margin: 100px;
+	border-radius: 20px;
+}
+
+body{
+	background-color: green;
+}
